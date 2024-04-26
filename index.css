@@ -241,6 +241,15 @@ footer nav {
   margin-top: 20px;
 }
 
+footer .con p a{
+  font-size:1.3rem;
+  font-weight: bolder;
+}
+
+footer .con p a:hover{
+  text-decoration: underline;
+}
+
 footer nav a {
   text-decoration: none;
   margin: 20px 5px;
